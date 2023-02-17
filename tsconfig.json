@@ -1,0 +1,11 @@
+{
+  "extends": "@tsconfig/node18/tsconfig.json",
+  "compilerOptions": {
+    "jsx": "preserve",
+    "baseUrl": ".",
+    "paths": {
+      "@myapp/web/*": ["./packages/web/src/*"],
+      "@myapp/core/*": ["./packages/core/src/*"]
+    }
+  }
+}
