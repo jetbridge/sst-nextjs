@@ -6,7 +6,9 @@ A starter kit for NextJS + Serverless Stack.
 
 Includes:
 
-- NextjsSite construct
+- [NextjsSite construct](https://docs.sst.dev/constructs/NextjsSite) - deploys Nextjs app with your stack to AWS
+- [Tailwind CSS](https://tailwindcss.com/docs/utility-first)
+- [Daisy UI](https://daisyui.com/docs/use/)
 - Eslint
 - Prettier
 - Husky
