@@ -12,9 +12,10 @@ Includes:
 - Eslint
 - Prettier
 - Husky
-- Shared core library
+- Shared core typescript library
+- REST API with lambda functions (local development supported)
 - NextJS `app` dir
-- GitHub action
+- GitHub actions
 - pnpm
 
 ## Quickstart
